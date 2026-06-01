@@ -7,9 +7,9 @@ def calcular_imc(p,a):
 #Davi2: classificador de dados
 def classificar(valor_IMC)
    if <=25
-      rerturn "normal"
+      return "normal"
     else:
-      rerturn "acima do peso"
+      return "acima do peso"
 #Willian3: Especialista em conteúdo
 def gerar_aviso(status):
  if status == "normal":
