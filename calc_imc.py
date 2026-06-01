@@ -10,3 +10,10 @@ def classificar(valor_IMC)
       rerturn "normal"
     else:
       rerturn "acima do peso"
+#Willian3: Especialista em conteúdo
+def gerar_aviso(status):
+ if status == "normal":
+    return("Parabéns! Seu peso está adequando para sua altura! Mantenha os hábitos saúdaveis, com alimentação saudável e praticando atividades físicas")
+ else:
+    return("Seu IMC indica que você está acima do peso! Recomenda-se buscar uma dieta balenceada e incluir exercícios físicos em sua rotina")
+ 
