@@ -16,9 +16,7 @@ def gerar_aviso(status):
     return("Parabéns! Seu peso está adequando para sua altura! Mantenha os hábitos saúdaveis, com alimentação saudável e praticando atividades físicas")
  else:
     return("Seu IMC indica que você está acima do peso! Recomenda-se buscar uma dieta balenceada e incluir exercícios físicos em sua rotina")
-# =====================================================================
 #vicenzzo4 (Engenheiro de Integração)
-# =====================================================================
 # from logica import calcular_imc
 # from classificacao import classificar
 # from conteudo import gerar_aviso
